@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+h1
+{
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 40px;
+    padding-top: 40px;
+}
+
+.f24px
+{
+    font-size: 27px;
+    font-family: Montserrat;
+    color: #a54dd1;
+    text-align: center;
+}
+
+button
+{
+    color: #a54dd1;
+    background-color: whitesmoke;
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.button
+{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+button:hover
+{
+    color: whitesmoke;
+    background-color: #a54dd1;
+}
+
+img
+{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 150px;
+}
+
+.img
+{
+    border: #a54dd1 5px;
+    border-radius: 25px;
+}
+
+body
+{
+    background-color: #f0facf;
+}
